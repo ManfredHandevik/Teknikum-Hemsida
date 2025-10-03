@@ -18,7 +18,9 @@ nav ul {
     transition: color 180ms ease, background-color 180ms ease, box-shadow 180ms ease;
     outline: none;
 }
-
+nav a:visited {
+  color: #f7eeee;
+}
 nav a:hover {
   color: #ffffff;
 }
